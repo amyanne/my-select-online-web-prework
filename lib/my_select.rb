@@ -1,3 +1,4 @@
+
 def my_select(collection)
  new_array = Array.new
 
